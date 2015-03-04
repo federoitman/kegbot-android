@@ -30,6 +30,11 @@
     <usb-device
         vendor-id="5824"
         product-id="1155"/>
+ 
+   <!-- 0x0403 / 0x6001:  CH340G -->
+    <usb-device
+        vendor-id="6790"
+        product-id="29987"/>
 
     <usb-device
         vendor-id="1003"
